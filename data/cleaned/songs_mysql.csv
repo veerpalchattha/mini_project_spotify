@@ -1,51 +1,81 @@
 song_id,track_name,artist_id,genre,genre_group,length_seconds,beats_per_minute,acousticness,danceability,loudness_db,energy,liveness,speechiness,valence
-1,Senorita,33,canadian pop,Pop,191,117,4,76,-6,55,8,3,75
-2,China,2,reggaeton flow,Latin,302,105,8,79,-4,81,8,9,61
-3,boyfriend (with Social House),3,dance pop,Pop,186,190,12,40,-4,80,16,46,70
-4,Beautiful People (feat. Khalid),10,pop,Pop,198,93,12,64,-8,65,8,19,55
-5,Goodbyes (Feat. Young Thug),29,dfw rap,Hip Hop,175,150,45,58,-4,65,11,7,18
-6,I Don't Care (with Justin Bieber),10,pop,Pop,220,102,9,80,-5,68,9,4,84
-7,Ransom,21,trap music,Hip Hop,131,180,2,75,-6,64,7,29,23
-8,How Do You Sleep?,31,pop,Pop,202,111,15,48,-5,68,8,9,35
-9,Old Town Road - Remix,20,country rap,Hip Hop,157,136,5,88,-6,62,11,10,64
-10,bad guy,5,electropop,Electronic,194,135,33,70,-11,43,10,38,56
-11,Callaita,4,reggaeton,Latin,251,176,60,61,-5,62,24,31,24
-12,Loco Contigo (feat. J. Balvin & Tyga),7,dance pop,Pop,185,96,28,82,-4,71,15,7,38
-13,Someone You Loved,19,pop,Pop,182,110,75,50,-6,41,11,3,45
-14,Otro Trago - Remix,32,panamanian pop,Latin,288,176,7,73,-2,79,6,20,76
-15,Money In The Grave (Drake ft. Rick Ross),9,canadian hip hop,Hip Hop,205,101,10,83,-4,50,12,5,10
-16,No Guidance (feat. Drake),6,dance pop,Pop,261,93,12,70,-7,45,16,15,14
-17,LA CANCION,11,latin,Latin,243,176,15,75,-6,65,11,32,43
-18,Sunflower - Spider-Man: Into the Spider-Verse,29,dfw rap,Hip Hop,158,90,56,76,-6,48,7,5,91
-19,Lalala,37,canadian hip hop,Hip Hop,161,130,18,84,-8,39,14,8,50
-20,Truth Hurts,22,escape room,Experimental,173,158,11,72,-3,62,12,11,41
-21,Piece Of Your Heart,24,pop house,Pop,153,124,4,68,-7,74,7,3,63
-22,Panini,20,country rap,Hip Hop,115,154,34,70,-6,59,12,8,48
-23,No Me Conoce - Remix,12,reggaeton flow,Latin,309,92,14,81,-4,79,9,7,58
-24,Soltera - Remix,23,latin,Latin,266,92,36,80,-4,78,44,4,80
-25,bad guy (with Justin Bieber),5,electropop,Electronic,195,135,25,67,-11,45,12,30,68
-26,If I Can't Have You,33,canadian pop,Pop,191,124,49,69,-4,82,13,6,87
-27,Dance Monkey,36,australian pop,Pop,210,98,69,82,-6,59,18,10,54
-28,It's You,1,canadian hip hop,Hip Hop,213,96,37,73,-7,46,19,3,40
-29,Con Calma,8,latin,Latin,193,94,11,74,-3,86,6,6,66
-30,QUE PRETENDES,11,latin,Latin,222,93,3,64,-4,79,36,25,94
-31,Takeaway,35,edm,Electronic,210,85,12,29,-8,51,10,4,36
-32,7 rings,3,dance pop,Pop,179,140,59,78,-11,32,9,33,33
-33,Unknown,25,reggaeton,Latin,176,96,22,78,-5,71,9,28,68
-34,The London (feat. J. Cole & Travis Scott),38,atl hip hop,Hip Hop,200,98,2,80,-7,59,13,15,18
-35,Never Really Over,14,dance pop,Pop,224,100,19,77,-5,88,32,6,39
-36,Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),27,big room,Electronic,164,114,18,66,-7,72,14,6,32
-37,Otro Trago,32,panamanian pop,Latin,226,176,14,75,-5,70,11,34,62
-38,Antisocial (with Travis Scott),10,pop,Pop,162,152,13,72,-5,82,36,5,91
-39,Sucker,13,boy band,Pop,181,138,4,84,-5,73,11,6,95
-40,"fuck, i'm lonely (with Anne-Marie) - from 13 Reasons Why: Season 3",18,dance pop,Pop,199,95,48,81,-6,56,6,7,68
-41,Higher Love,16,edm,Electronic,228,104,2,69,-7,68,10,3,40
-42,You Need To Calm Down,34,dance pop,Pop,171,85,1,77,-6,68,7,5,73
-43,Shallow,17,dance pop,Pop,216,96,37,57,-6,39,23,3,32
-44,Talk,15,pop,Pop,198,136,5,90,-9,40,6,13,35
-45,Con Altura,30,r&b en espanol,Latin,162,98,39,88,-4,69,5,12,75
-46,One Thing Right,26,brostep,Electronic,182,88,7,66,-2,62,58,5,44
-47,Te Robare,28,latin,Latin,202,176,24,67,-4,75,8,6,80
-48,Happier,26,brostep,Electronic,214,100,19,69,-3,79,17,5,67
-49,Call You Mine,35,edm,Electronic,218,104,23,59,-6,70,41,3,50
-50,Cross Me (feat. Chance the Rapper & PnB Rock),10,pop,Pop,206,95,21,75,-6,79,7,12,61
+1,Senorita,43,canadian pop,Pop,191,117,4,76,-6,55,8,3,75
+2,Senorita,44,canadian pop,Pop,191,117,4,76,-6,55,8,3,75
+3,China,2,reggaeton flow,Latin,302,105,8,79,-4,81,8,9,61
+4,boyfriend (with Social House),3,dance pop,Pop,186,190,12,40,-4,80,16,46,70
+5,boyfriend (with Social House),4,dance pop,Pop,186,190,12,40,-4,80,16,46,70
+6,Beautiful People (feat. Khalid),12,pop,Pop,198,93,12,64,-8,65,8,19,55
+7,Beautiful People (feat. Khalid),13,pop,Pop,198,93,12,64,-8,65,8,19,55
+8,Beautiful People (feat. Khalid),14,pop,Pop,198,93,12,64,-8,65,8,19,55
+9,Beautiful People (feat. Khalid),15,pop,Pop,198,93,12,64,-8,65,8,19,55
+10,Goodbyes (Feat. Young Thug),37,dfw rap,Hip Hop,175,150,45,58,-4,65,11,7,18
+11,Goodbyes (Feat. Young Thug),38,dfw rap,Hip Hop,175,150,45,58,-4,65,11,7,18
+12,I Don't Care (with Justin Bieber),12,pop,Pop,220,102,9,80,-5,68,9,4,84
+13,I Don't Care (with Justin Bieber),13,pop,Pop,220,102,9,80,-5,68,9,4,84
+14,I Don't Care (with Justin Bieber),14,pop,Pop,220,102,9,80,-5,68,9,4,84
+15,I Don't Care (with Justin Bieber),15,pop,Pop,220,102,9,80,-5,68,9,4,84
+16,Ransom,28,trap music,Hip Hop,131,180,2,75,-6,64,7,29,23
+17,How Do You Sleep?,40,pop,Pop,202,111,15,48,-5,68,8,9,35
+18,Old Town Road - Remix,26,country rap,Hip Hop,157,136,5,88,-6,62,11,10,64
+19,Old Town Road - Remix,27,country rap,Hip Hop,157,136,5,88,-6,62,11,10,64
+20,bad guy,6,electropop,Electronic,194,135,33,70,-11,43,10,38,56
+21,bad guy,7,electropop,Electronic,194,135,33,70,-11,43,10,38,56
+22,Callaita,5,reggaeton,Latin,251,176,60,61,-5,62,24,31,24
+23,Loco Contigo (feat. J. Balvin & Tyga),9,dance pop,Pop,185,96,28,82,-4,71,15,7,38
+24,Someone You Loved,25,pop,Pop,182,110,75,50,-6,41,11,3,45
+25,Otro Trago - Remix,41,panamanian pop,Latin,288,176,7,73,-2,79,6,20,76
+26,Otro Trago - Remix,42,panamanian pop,Latin,288,176,7,73,-2,79,6,20,76
+27,Money In The Grave (Drake ft. Rick Ross),11,canadian hip hop,Hip Hop,205,101,10,83,-4,50,12,5,10
+28,No Guidance (feat. Drake),8,dance pop,Pop,261,93,12,70,-7,45,16,15,14
+29,LA CANCION,16,latin,Latin,243,176,15,75,-6,65,11,32,43
+30,LA CANCION,17,latin,Latin,243,176,15,75,-6,65,11,32,43
+31,Sunflower - Spider-Man: Into the Spider-Verse,37,dfw rap,Hip Hop,158,90,56,76,-6,48,7,5,91
+32,Sunflower - Spider-Man: Into the Spider-Verse,38,dfw rap,Hip Hop,158,90,56,76,-6,48,7,5,91
+33,Lalala,49,canadian hip hop,Hip Hop,161,130,18,84,-8,39,14,8,50
+34,Truth Hurts,29,escape room,Experimental,173,158,11,72,-3,62,12,11,41
+35,Piece Of Your Heart,31,pop house,Pop,153,124,4,68,-7,74,7,3,63
+36,Panini,26,country rap,Hip Hop,115,154,34,70,-6,59,12,8,48
+37,Panini,27,country rap,Hip Hop,115,154,34,70,-6,59,12,8,48
+38,No Me Conoce - Remix,18,reggaeton flow,Latin,309,92,14,81,-4,79,9,7,58
+39,Soltera - Remix,30,latin,Latin,266,92,36,80,-4,78,44,4,80
+40,bad guy (with Justin Bieber),6,electropop,Electronic,195,135,25,67,-11,45,12,30,68
+41,bad guy (with Justin Bieber),7,electropop,Electronic,195,135,25,67,-11,45,12,30,68
+42,If I Can't Have You,43,canadian pop,Pop,191,124,49,69,-4,82,13,6,87
+43,If I Can't Have You,44,canadian pop,Pop,191,124,49,69,-4,82,13,6,87
+44,Dance Monkey,48,australian pop,Pop,210,98,69,82,-6,59,18,10,54
+45,It's You,1,canadian hip hop,Hip Hop,213,96,37,73,-7,46,19,3,40
+46,Con Calma,10,latin,Latin,193,94,11,74,-3,86,6,6,66
+47,QUE PRETENDES,16,latin,Latin,222,93,3,64,-4,79,36,25,94
+48,QUE PRETENDES,17,latin,Latin,222,93,3,64,-4,79,36,25,94
+49,Takeaway,46,edm,Electronic,210,85,12,29,-8,51,10,4,36
+50,Takeaway,47,edm,Electronic,210,85,12,29,-8,51,10,4,36
+51,7 rings,3,dance pop,Pop,179,140,59,78,-11,32,9,33,33
+52,7 rings,4,dance pop,Pop,179,140,59,78,-11,32,9,33,33
+53,Unknown,32,reggaeton,Latin,176,96,22,78,-5,71,9,28,68
+54,The London (feat. J. Cole & Travis Scott),50,atl hip hop,Hip Hop,200,98,2,80,-7,59,13,15,18
+55,Never Really Over,20,dance pop,Pop,224,100,19,77,-5,88,32,6,39
+56,Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy),35,big room,Electronic,164,114,18,66,-7,72,14,6,32
+57,Otro Trago,41,panamanian pop,Latin,226,176,14,75,-5,70,11,34,62
+58,Otro Trago,42,panamanian pop,Latin,226,176,14,75,-5,70,11,34,62
+59,Antisocial (with Travis Scott),12,pop,Pop,162,152,13,72,-5,82,36,5,91
+60,Antisocial (with Travis Scott),13,pop,Pop,162,152,13,72,-5,82,36,5,91
+61,Antisocial (with Travis Scott),14,pop,Pop,162,152,13,72,-5,82,36,5,91
+62,Antisocial (with Travis Scott),15,pop,Pop,162,152,13,72,-5,82,36,5,91
+63,Sucker,19,boy band,Pop,181,138,4,84,-5,73,11,6,95
+64,"fuck, i'm lonely (with Anne-Marie) - from 13 Reasons Why: Season 3",24,dance pop,Pop,199,95,48,81,-6,56,6,7,68
+65,Higher Love,22,edm,Electronic,228,104,2,69,-7,68,10,3,40
+66,You Need To Calm Down,45,dance pop,Pop,171,85,1,77,-6,68,7,5,73
+67,Shallow,23,dance pop,Pop,216,96,37,57,-6,39,23,3,32
+68,Talk,21,pop,Pop,198,136,5,90,-9,40,6,13,35
+69,Con Altura,39,r&b en espanol,Latin,162,98,39,88,-4,69,5,12,75
+70,One Thing Right,33,brostep,Electronic,182,88,7,66,-2,62,58,5,44
+71,One Thing Right,34,brostep,Electronic,182,88,7,66,-2,62,58,5,44
+72,Te Robare,36,latin,Latin,202,176,24,67,-4,75,8,6,80
+73,Happier,33,brostep,Electronic,214,100,19,69,-3,79,17,5,67
+74,Happier,34,brostep,Electronic,214,100,19,69,-3,79,17,5,67
+75,Call You Mine,46,edm,Electronic,218,104,23,59,-6,70,41,3,50
+76,Call You Mine,47,edm,Electronic,218,104,23,59,-6,70,41,3,50
+77,Cross Me (feat. Chance the Rapper & PnB Rock),12,pop,Pop,206,95,21,75,-6,79,7,12,61
+78,Cross Me (feat. Chance the Rapper & PnB Rock),13,pop,Pop,206,95,21,75,-6,79,7,12,61
+79,Cross Me (feat. Chance the Rapper & PnB Rock),14,pop,Pop,206,95,21,75,-6,79,7,12,61
+80,Cross Me (feat. Chance the Rapper & PnB Rock),15,pop,Pop,206,95,21,75,-6,79,7,12,61

@@ -26,7 +26,7 @@ CREATE TABLE `Artists` (
   `artist_id` bigint unsigned NOT NULL AUTO_INCREMENT,
   `artist_name` varchar(255) NOT NULL,
   PRIMARY KEY (`artist_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=39 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=51 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -35,7 +35,7 @@ CREATE TABLE `Artists` (
 
 LOCK TABLES `Artists` WRITE;
 /*!40000 ALTER TABLE `Artists` DISABLE KEYS */;
-INSERT INTO `Artists` VALUES (1,'Ali Gatie'),(2,'Anuel AA'),(3,'Ariana Grande'),(4,'Bad Bunny'),(5,'Billie Eilish'),(6,'Chris Brown'),(7,'DJ Snake'),(8,'Daddy Yankee'),(9,'Drake'),(10,'Ed Sheeran'),(11,'J Balvin'),(12,'Jhay Cortez'),(13,'Jonas Brothers'),(14,'Katy Perry'),(15,'Khalid'),(16,'Kygo'),(17,'Lady Gaga'),(18,'Lauv'),(19,'Lewis Capaldi'),(20,'Lil Nas X'),(21,'Lil Tecca'),(22,'Lizzo'),(23,'Lunay'),(24,'MEDUZA'),(25,'Maluma'),(26,'Marshmello'),(27,'Martin Garrix'),(28,'Nicky Jam'),(29,'Post Malone'),(30,'ROSALIA'),(31,'Sam Smith'),(32,'Sech'),(33,'Shawn Mendes'),(34,'Taylor Swift'),(35,'The Chainsmokers'),(36,'Tones and I'),(37,'Y2K'),(38,'Young Thug');
+INSERT INTO `Artists` VALUES (1,'Ali Gatie'),(2,'Anuel AA'),(3,'Ariana Grande'),(4,'Bad Bunny'),(5,'Billie Eilish'),(6,'Chris Brown'),(7,'DJ Snake'),(8,'Daddy Yankee'),(9,'Drake'),(10,'Ed Sheeran'),(11,'J Balvin'),(12,'Jhay Cortez'),(13,'Jonas Brothers'),(14,'Katy Perry'),(15,'Khalid'),(16,'Kygo'),(17,'Lady Gaga'),(18,'Lauv'),(19,'Lewis Capaldi'),(20,'Lil Nas X'),(21,'Lil Tecca'),(22,'Lizzo'),(23,'Lunay'),(24,'MEDUZA'),(25,'Maluma'),(26,'Marshmello'),(27,'Martin Garrix'),(28,'Nicky Jam'),(29,'Post Malone'),(30,'ROSALIA'),(31,'Sam Smith'),(32,'Sech'),(33,'Shawn Mendes'),(34,'Taylor Swift'),(35,'The Chainsmokers'),(36,'Tones and I'),(37,'Y2K'),(38,'Young Thug'),(39,'ROSALIA'),(40,'Sam Smith'),(41,'Sech'),(42,'Sech'),(43,'Shawn Mendes'),(44,'Shawn Mendes'),(45,'Taylor Swift'),(46,'The Chainsmokers'),(47,'The Chainsmokers'),(48,'Tones and I'),(49,'Y2K'),(50,'Young Thug');
 /*!40000 ALTER TABLE `Artists` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -114,4 +114,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2025-12-04 11:51:46
+-- Dump completed on 2025-12-04 15:17:29

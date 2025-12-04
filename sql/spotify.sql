@@ -43,3 +43,4 @@ CREATE TABLE Popularity (
         ON UPDATE CASCADE
         ON DELETE RESTRICT
 );
+
